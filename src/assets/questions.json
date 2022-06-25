@@ -1,0 +1,94 @@
+{
+    "questions": [
+      {
+        "questionText": "1.What is HTTP 404?",
+        "options": [
+          {
+            "text": "An error message indicating server not found",
+            "correct": true
+          },
+          {
+            "text": "An error message indicating moved permanently"
+          },
+          {
+            "text": " An error message indicating forbidden"
+          },
+          {
+            "text": "An error message indicating server found"
+          }
+        ]
+      },
+      {
+        "questionText": "2.Which of the following is a single integrated circuit on which a CPUs are typically constructed?",
+        "options": [
+          {
+            "text": "memory"
+          },
+          {
+            "text": "hard disk"
+          },
+          {
+            "text": "microprocessor",
+            "correct": true
+          },
+          {
+            "text": "motherboard"
+          }
+        ]
+      },
+      {
+        "questionText": "3. What kind of data is processed by an analog computer?",
+        "options": [
+          {
+            "text": " Discrete Data"
+          },
+          {
+            "text": "Intermittent data"
+          },
+          {
+            "text": "Continuously varying Data",
+            "correct": true
+          },
+          {
+            "text": "Discretely varying Data"
+          }
+        ]
+      },
+      {
+        "questionText": "4. What was the special feature of the Apple Lisa computer launched in 1983?",
+        "options": [
+          {
+            "text": "Windows XP"
+          },
+          {
+            "text": "GUI desktop",
+            "correct": true
+          },
+          {
+            "text": "DOS"
+          },
+          {
+            "text": "Front Panel with Red Lights"
+          }
+        ]
+      },
+      {
+        "questionText": "5. In which computer was magnetic core memory first demonstrated?",
+        "options": [
+          {
+            "text": "Manchester Baby"
+          },
+          {
+            "text": "IBM 650"
+          },
+          {
+            "text": "Ferranti I"
+          },
+          {
+            "text": "Whirlwind Computer",
+            "correct": true
+          }
+        ]
+      }
+    ]
+  }
